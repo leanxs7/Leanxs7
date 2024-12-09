@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @LenxsdroAr
-- 👀 I’m interested in web and backend side
-- 🌱 I’m currently learning c+, rush and python
-- 💞️ I’m looking to collaborate on linux
-- 📫 How to reach me... just follow and text me
-- 😄 Pronouns: Moi
-- ⚡ Fun fact: ... idk xD
+Just a beginner...
+I love Arduino and JS, looking to learn web...
+
 
 <!---
 LenxsdroAr/LenxsdroAr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
