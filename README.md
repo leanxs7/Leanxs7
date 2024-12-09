@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LenxsdroAr
-- 👀 I’m interested in backend side
+- 👀 I’m interested in web and backend side
 - 🌱 I’m currently learning c+, rush and python
 - 💞️ I’m looking to collaborate on linux
 - 📫 How to reach me... just follow and text me
